@@ -184,7 +184,7 @@ main > article:nth-child(2) > .article-image-section {
 }
 
 main > article:nth-child(3) > .article-image-section {
-  background-image: url("https://github.com/Lyrockx/Image/blob/main/PORTFOLIO%20IAMGR.PNG");
+  background-image: img src="https://github.com/Lyrockx/Image/blob/main/IMG_9521%202.jpeg?raw=true" alt="image description";
 }
 
 main > article:nth-child(4) > .article-image-section {
