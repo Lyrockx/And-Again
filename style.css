@@ -89,12 +89,12 @@ nav .nav-section {
 }
 
 #nav-logo-section {
-  background-color: white
   flex-basis: calc(100% / 3);
   justify-content: flex-start;
 }
 
 #nav-logo-section > a > i {
+  background-color: white
   font-size: 2.5rem;
 }
 
