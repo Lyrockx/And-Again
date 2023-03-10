@@ -89,6 +89,7 @@ nav .nav-section {
 }
 
 #nav-logo-section {
+  background-color: white
   flex-basis: calc(100% / 3);
   justify-content: flex-start;
 }
