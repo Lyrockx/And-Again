@@ -96,7 +96,6 @@ nav .nav-section {
 }
 
 #nav-logo-section {
-  overflow: hidden;
   padding: 0;
   flex-basis: calc(100% / 3);
   justify-content: flex-start;
