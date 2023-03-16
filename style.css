@@ -1,5 +1,5 @@
 :root {
-  --background-color: rgb(96,97,82);
+  --background-color: rgb(93,130,142);
   --border-color: rgb(255, 255, 255, 0.1);
   --highlight-color: rgb(126, 87, 194);
   --yt-color: rgb(229, 57, 53);
@@ -21,7 +21,7 @@ body {
 h1 {
 font-family: "Rubik", sans-serif;
   font-weight: 400;
-  color: rgb(19, 61, 50);
+  color: rgb(93,130,142);
   margin: 0px;
 }
   
@@ -98,7 +98,7 @@ nav .nav-section {
 #nav-logo-section {
   flex-basis: calc(100% / 3);
   justify-content: flex-start;
-  background-color: rgb(243, 234, 214)
+  background-color: rgb(250, 223, 173)
 }
 
 #nav-logo-section > a > i {
