@@ -295,12 +295,13 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
   main > article > .article-image-section {
     order: 2;
+    height: min(1fr);
   }
 
   main > article > .article-title-section {
     border-bottom: 1px solid var(--border-color);
     order: 1;
-    height: max(1fr);
+    height: max(.5fr);
   }
 
   main > article > .article-description-section {
