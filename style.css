@@ -38,7 +38,7 @@ a {
 
 a:hover {
   color: var(--highlight-color);
-  font-size: 150%
+  font-size: 200%
 }
 
 nav {
@@ -91,6 +91,7 @@ nav .nav-section {
   line-height: 1rem;
 }
 
+#nav-link-section,
 #nav-social-section,
 #nav-contact-section {
   flex-grow: 1;
@@ -106,11 +107,6 @@ nav .nav-section {
 #nav-logo-section > a > i {
   font-size: 2.5rem;
   color: rgb(19, 61, 50)
-}
-
-#nav-link-section {
-  flex-basis: 50%;
-  gap: 6rem;
 }
 
 #nav-social-section {
@@ -381,7 +377,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
 
   main > article > .article-title-section > h2 {
-    flex-basis: 30%;
+    flex-basis: 60%;
     font-size: 1.75em;
     line-height: 1.5rem;
   }
