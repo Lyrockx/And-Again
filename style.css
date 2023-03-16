@@ -28,7 +28,7 @@ font-family: "Rubik", sans-serif;
 h2, h3, a, p, span {
   font-family: "Rubik", sans-serif;
   font-weight: 400;
-  color: rgb(243, 234, 214);
+  color: rgb(32,74,94);
   margin: 0px;
 }
 
@@ -98,7 +98,7 @@ nav .nav-section {
 #nav-logo-section {
   flex-basis: calc(100% / 3);
   justify-content: flex-start;
-  background-color: rgb(250, 223, 173)
+  background-color: rgb(32,74,94)
 }
 
 #nav-logo-section > a > i {
