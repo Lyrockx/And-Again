@@ -295,13 +295,11 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
   main > article > .article-image-section {
     order: 2;
-    height: min(1fr);
   }
 
   main > article > .article-title-section {
     border-bottom: 1px solid var(--border-color);
     order: 1;
-    height: max(.5fr);
   }
 
   main > article > .article-description-section {
@@ -383,7 +381,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
 
   main > article > .article-title-section > h2 {
-    flex-basis: 70%;
+    flex-basis: 30%;
     font-size: 1.75em;
     line-height: 1.5rem;
   }
