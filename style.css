@@ -294,7 +294,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
 
   main > article > .article-image-section {
-    order: 3;
+    order: 2;
   }
 
   main > article > .article-title-section {
@@ -304,12 +304,12 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
   main > article > .article-description-section {
     justify-content: center;
-    order: 1;
+    order: 4;
   }
 
   main > article > .article-nav-section {
     border-bottom: 1px solid var(--border-color);
-    order: 4;
+    order: 3;
   }
 }
 
