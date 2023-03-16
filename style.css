@@ -127,8 +127,8 @@ main > article {
   height: 100%;
   width: 100%;
   display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-template-rows: 2fr 2fr;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 2fr;
   position: absolute;
   left: 0px;
   top: 0px;
