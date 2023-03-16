@@ -1,7 +1,7 @@
 :root {
   --background-color: rgb(93,130,142);
   --border-color: rgb(32,74,94, 1000);
-  --highlight-color: rgb(126, 87, 194);
+  --highlight-color: rgb(255, 255, 255);
   --yt-color: rgb(229, 57, 53);
 }
 
@@ -38,6 +38,7 @@ a {
 
 a:hover {
   color: var(--highlight-color);
+  font-size: 150%
 }
 
 nav {
