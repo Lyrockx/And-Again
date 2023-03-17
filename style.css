@@ -123,8 +123,8 @@ main > article {
   height: 100%;
   width: 100%;
   display: grid;
-  grid-template-columns: 1fr 2fr;
-  grid-template-rows: 1fr 2fr;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -271,7 +271,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
   main > article {
     grid-template-columns: none;
-    grid-template-rows: 2fr
+    grid-template-rows: 3fr
     height: max(900px, 100%);
   }
 
