@@ -124,7 +124,7 @@ main > article {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  grid-template-rows: 1fr 2fr;
+  grid-template-rows: 2fr 1fr;
   position: absolute;
   left: 0px;
   top: 0px;
