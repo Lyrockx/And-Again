@@ -196,7 +196,7 @@ main > article > .article-image-section {
 
 main > article > .article-description-section {
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-start;
   padding: 4rem;
 }
 
