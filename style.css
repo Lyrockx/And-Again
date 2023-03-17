@@ -1,6 +1,6 @@
 :root {
-  --background-color: rgb(204,183,152);
-  --border-color: rgb(32,74,94, 1000);
+  --background-color: rgb(158,182,160);
+  --border-color: rgb(32,74,94, 0.5);
   --highlight-color: rgb(255, 255, 255);
   --yt-color: rgb(229, 57, 53);
 }
