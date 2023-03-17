@@ -212,16 +212,17 @@ main > article > .article-description-section > p  > a:hover {
 main > article > .article-title-section {
   align-items: center;
   justify-content: space-between;
-  padding: 0;
+  padding: 4rem 2rem;
 }
 
 main > article > .article-title-section * {
-  color: white;
+  color: blue;
 }
 
 main > article > .article-title-section > h2 {
   flex-basis: 50%;
   font-family: "Montserrat", sans-serif;
+  color: rgb(32,74,94);
   font-size: 3.5rem;
   line-height: 3rem;
   margin: 0px;
@@ -262,7 +263,6 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
   #nav-link-section {
     flex-basis: calc(100% * 0.25);
-    gap: 3rem;
   }
 
   main {
