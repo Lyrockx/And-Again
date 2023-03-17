@@ -271,7 +271,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
   main > article {
     grid-template-columns: none;
-    grid-template-rows: 1fr 2fr 1fr 1fr
+    grid-template-rows: 1fr
     height: max(900px, 100%);
   }
 
@@ -368,7 +368,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
 
   main > article {
-    grid-template-rows: 2fr repeat(4, 0.5fr);
+    grid-template-rows: 1fr;
     height: max(700px, 100%);
   }
 
