@@ -1,5 +1,5 @@
 :root {
-  --background-color: rgb(204,183,152);
+  --background-color: rgba(177,181,160,255);
   --border-color: rgb(101,84,66, 0.5);
   --highlight-color: rgb(255, 255, 255);
   --yt-color: rgb(229, 57, 53);
@@ -21,14 +21,14 @@ body {
 h1 {
 font-family: "Rubik", sans-serif;
   font-weight: 400;
-  color: rgb(101,84,66);
+  color: rgba(177,181,160,255);
   margin: 0px;
 }
   
 h2, h3, a, p, span {
   font-family: "Rubik", sans-serif;
   font-weight: 400;
-  color: rgb(101,84,66);
+  color: rgba(177,181,160,255);
   margin: 0px;
 }
 
