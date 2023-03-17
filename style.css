@@ -203,7 +203,7 @@ main > article > .article-description-section {
 }
 
 main > article > .article-description-section > p {
-  color: rgba(255, 255, 255, 0.5);
+  color: (204,183,152, 0.5);
   font-size: 1.25em;
 }
 
@@ -224,7 +224,7 @@ main > article > .article-title-section * {
 main > article > .article-title-section > h2 {
   flex-basis: 50%;
   font-family: "Montserrat", sans-serif;
-  color: rgb(32,74,94);
+  color: rgb(204,183,152);
   font-size: 3.5rem;
   line-height: 3rem;
   margin: 0px;
