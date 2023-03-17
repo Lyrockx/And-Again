@@ -229,7 +229,7 @@ main > article > .article-title-section > h2 {
 }
 
 main > article > .article-title-section > i {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgb(32,74,94);
   font-size:  4rem;
 }
 
@@ -261,7 +261,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   }
 
   #nav-link-section {
-    flex-basis: calc(100% / 3);
+    flex-basis: calc(100% * 0.25);
     gap: 3rem;
   }
 
@@ -271,7 +271,7 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
 
   main > article {
     grid-template-columns: none;
-    grid-template-rows: 1.5fr repeat(3, 0.75fr) 0.25fr;
+    grid-template-rows: 2fr
     height: max(900px, 100%);
   }
 
