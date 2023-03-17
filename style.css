@@ -212,7 +212,7 @@ main > article > .article-description-section > p  > a:hover {
 main > article > .article-title-section {
   align-items: center;
   justify-content: space-between;
-  padding: 2rem 4rem;
+  padding: 0;
 }
 
 main > article > .article-title-section * {
