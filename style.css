@@ -184,7 +184,6 @@ main > article:nth-child(2) > .article-image-section {
 }
 
 main > article:nth-child(3) > .bookshelf {
-body {
   display: flex;
   align-items: center;
   min-height: 500px;
