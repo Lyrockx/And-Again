@@ -168,6 +168,7 @@ main > article > .article-section {
 main > article > .article-description-section,
 main > article > .article-nav-section {
   border-left: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
 }
 
 main > article > .article-title-section,
@@ -184,6 +185,12 @@ main > article:nth-child(2) > .article-image-section {
 }
 
 main > article:nth-child(3) > .article-image-section {
+  #circle {
+  width: 100px;
+  height: 100px;
+  background: red;
+  border-radius: 50%
+}
 }
 
 main > article:nth-child(4) > .article-image-section {
