@@ -183,17 +183,16 @@ main > article:nth-child(2) > .article-image-section {
   background-image: url("https://images.unsplash.com/photo-1535905557558-afc4877a26fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80");
 }
 
-main > article:nth-child(3) > .article-image-section {
-  #circle {
-  width: 100px;
-  height: 100px;
-  background: red;
-  border-radius: 50%
-}
+main > article:nth-child(3) > .bookshelf {
 }
 
 main > article:nth-child(4) > .article-image-section {
   background-image: url("https://images.unsplash.com/photo-1660766877755-4cac24f6cf21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80");
+}
+
+main > article > .bookshelf {
+  background-position: center;
+  background-size: cover;
 }
 
 main > article > .article-image-section {
